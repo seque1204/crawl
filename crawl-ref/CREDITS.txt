@@ -75,6 +75,7 @@
 
 * Members of the Dungeon Crawl community who have contributed to Dungeon
   Crawl Stone Soup:
+    Jose Sequeira
     Eugene Abramchuk
     achuah
     Santiago Acosta
